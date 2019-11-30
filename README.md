@@ -8,5 +8,5 @@
 
 #### Direct https
 
-* https://indivisible-irl.github.io/safehouse-web-motd/motd.html
-* https://indivisible-irl.github.io/safehouse-web-motd/banner.html
+* [https://indivisible-irl.github.io/safehouse-web-motd/motd.html](https://indivisible-irl.github.io/safehouse-web-motd/motd.html)
+* [https://indivisible-irl.github.io/safehouse-web-motd/banner.html](https://indivisible-irl.github.io/safehouse-web-motd/banner.html)
