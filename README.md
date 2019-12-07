@@ -5,11 +5,11 @@
 ## Maps
 
 * Subscribe to [The Safe House Maps Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1924119212)
-* Maps located in `..\steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\workshop` folder NOT `..\addons`
-* Map IDs: [(txt)](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/map-ids.txt) / [(markdown)](http://safehouse-motd.indivisible.wtf/map-ids)
+* Maps located in "`..\steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\workshop`" folder and NOT "`..\addons`"
+* Map IDs: [(plain text)](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/map-ids.txt) or [(markdown)](http://safehouse-motd.indivisible.wtf/map-ids)
 
 
-## Help
+## Halp!
 
 Some common issues and suggested fixes [over here](http://safehouse-motd.indivisible.wtf/help)
 
