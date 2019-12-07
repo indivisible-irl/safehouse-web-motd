@@ -6,10 +6,10 @@
 
 ### Common issues
 
- * Install location is `..\steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\workshop` NOT `..\left4dead2\addons`. If you have duplicate, conflicting or differently sourced copies of maps in the parent addons folder best to delete them.
- * After subscribe/install allow Steam to complete any workshop Downloads before starting game.
- * After loading game, allow the client to scan, update and load your addons before joining a lobby (10-60 secs in menu).
- * Addons list shows many addon conflicts. Multi-part maps often conflict with themselves since they duplicate some assets or apply the same tweaks. You can ignore warnings on maps you know you don't have duplicated in \addons. Conflicts with other non-map installed addons however should be investigated or the extra addons disabled for compatability/consistency reasons.
+ * *Install location* is `..\steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\workshop` NOT `..\left4dead2\addons`. If you have duplicate, conflicting or differently sourced copies of maps in the parent addons folder best to delete them.
+ * After subscribe/install allow Steam to complete any workshop Downloads _before_ starting your game client.
+ * After opening your game, allow the client to scan, update and load your addons *before joining a lobby* (10-60 secs in menu).
+ * *Addons list shows many addon conflicts.* Multi-part maps often conflict with themselves since they duplicate some assets or apply the same tweaks. You can ignore warnings on maps you know you don't have duplicated in \addons. Conflicts with other non-map installed addons however should be investigated or the extra addons disabled for compatability/consistency reasons.
 
 
 ### Maps:
