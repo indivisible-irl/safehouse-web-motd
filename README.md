@@ -8,15 +8,22 @@
 * Map IDs: [(txt)](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/map-ids.txt) / [(markdown)](http://safehouse-motd.indivisible.wtf/map-ids)
 
 
+## Help
+
+Some common issues and suggested fixes [over here](http://safehouse-motd.indivisible.wtf/help)
+
+
 ## MOTD
 
-#### Indirect http
+#### Indirect http  
+(active, default)
 
 * [http://safehouse-motd.indivisible.wtf/motd.html](http://safehouse-motd.indivisible.wtf/motd.html)  
 * [http://safehouse-motd.indivisible.wtf/banner.html](http://safehouse-motd.indivisible.wtf/banner.html)  
 
 
-#### Direct https
+#### Direct https  
+(inactive, redirects)
 
 * [https://indivisible-irl.github.io/safehouse-web-motd/motd.html](https://indivisible-irl.github.io/safehouse-web-motd/motd.html)
 * [https://indivisible-irl.github.io/safehouse-web-motd/banner.html](https://indivisible-irl.github.io/safehouse-web-motd/banner.html)
