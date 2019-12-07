@@ -1,6 +1,4 @@
-# The Safe House
-
-![Safe House](/img/banner_00.jpg)
+# The Safe House ![Safe House](/img/banner_00.jpg)
 
 ## GoGoGo
 
