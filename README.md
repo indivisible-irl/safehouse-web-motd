@@ -1,6 +1,6 @@
 # The Safe House
 
-![Safe House](http://safehouse-motd.indivisible.wtf/banner_00.jpg)
+![Safe House](http://safehouse-motd.indivisible.wtf/img/banner_00.jpg)
 
 ## Maps
 
