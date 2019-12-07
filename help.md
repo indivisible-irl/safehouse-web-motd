@@ -19,6 +19,7 @@
  * After a new subscribe/install allow Steam to complete any workshop Downloads _before_ starting your game client.
  * After opening your game, allow the client to scan, update and load your addons *before joining a lobby* (10-60 secs in menu).
  * Is it a new addition? Have you subbed to the collection changes? Revisit the workshop collection and check you're subscribed to all the maps (sadly has to be done manually every time...)
+ * Is the map from a non-workshop source? Those go in to the "`..\left4dead2\addons`" folder directly. If you add files to the `..\addons\workshop` folder manually, they will get removed by the game when it looks for workshop updates (and sees no subscription for the stray files).
 
 #### Addons list shows many addon conflicts?
  * Multi-part maps often conflict with themselves since they duplicate some assets or apply the exact same tweaks.
