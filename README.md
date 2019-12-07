@@ -5,7 +5,7 @@
 
 * Subscribe to [The Safe House Maps Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1924119212)
 * Maps located in `..\steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\workshop` folder NOT `..\addons`
-* [Map IDs (txt)](https://indivisible-irl.github.io/safehouse-web-motd/map-ids.txt) 
+* [Map IDs (txt)](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/map-ids.txt) 
 
 
 ## MOTD
