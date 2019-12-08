@@ -27,9 +27,6 @@ Some common issues and suggested fixes [over here](/help)
 
 ## MOTD
 
-<details>
-  <summary>Banner/motd</summary>
-
     * Server files
       - [gdmotd.txt](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/gdmotd.txt)
       - [gdhost.txt](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/gdhost.txt)
@@ -41,5 +38,3 @@ Some common issues and suggested fixes [over here](/help)
     * Direct httpS (inactive, redirects)
       - [https://indivisible-irl.github.io/safehouse-web-motd/motd.html](https://indivisible-irl.github.io/safehouse-web-motd/motd.html)
       - [https://indivisible-irl.github.io/safehouse-web-motd/banner.html](https://indivisible-irl.github.io/safehouse-web-motd/banner.html)
-
-</details>
