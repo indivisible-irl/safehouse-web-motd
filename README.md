@@ -22,24 +22,24 @@
 
 ## Halp!
 
-Some common issues and suggested fixes [over here](http://safehouse-motd.indivisible.wtf/help)
+Some common issues and suggested fixes [over here](/help)
 
 
-# MOTD
+## MOTD
+
 <details>
-  <summary>Banner/motd urls</summary>
+  <summary>Banner/motd</summary>
 
-#### Indirect http  
-(active, default)
+    * Server files
+      - [gdmotd.txt](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/gdmotd.txt)
+      - [gdhost.txt](https://raw.githubusercontent.com/indivisible-irl/safehouse-web-motd/master/gdhost.txt)
 
-* [http://safehouse-motd.indivisible.wtf/motd.html](http://safehouse-motd.indivisible.wtf/motd.html)  
-* [http://safehouse-motd.indivisible.wtf/banner.html](http://safehouse-motd.indivisible.wtf/banner.html)  
+    * Indirect http (active, default)
+      - [http://safehouse-motd.indivisible.wtf/motd.html](http://safehouse-motd.indivisible.wtf/motd.html)  
+      - [http://safehouse-motd.indivisible.wtf/banner.html](http://safehouse-motd.indivisible.wtf/banner.html)  
 
-
-#### Direct httpS  
-(inactive, redirects)
-
-* [https://indivisible-irl.github.io/safehouse-web-motd/motd.html](https://indivisible-irl.github.io/safehouse-web-motd/motd.html)
-* [https://indivisible-irl.github.io/safehouse-web-motd/banner.html](https://indivisible-irl.github.io/safehouse-web-motd/banner.html)
+    * Direct httpS (inactive, redirects)
+      - [https://indivisible-irl.github.io/safehouse-web-motd/motd.html](https://indivisible-irl.github.io/safehouse-web-motd/motd.html)
+      - [https://indivisible-irl.github.io/safehouse-web-motd/banner.html](https://indivisible-irl.github.io/safehouse-web-motd/banner.html)
 
 </details>
