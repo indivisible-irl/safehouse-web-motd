@@ -62,6 +62,9 @@
 #### Fatal Freight
  * [1332253889](https://steamcommunity.com/sharedfiles/filedetails/?id=1332253889)
 
+#### Fairfield Terror: TRS No Mercy Remake
+ * [1510469815](https://steamcommunity.com/sharedfiles/filedetails/?id=1510469815)
+
 #### Dark Carnival Remix
  * [1575673903](https://steamcommunity.com/sharedfiles/filedetails/?id=1575673903)
 
